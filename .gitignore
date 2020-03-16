@@ -1,9 +1,13 @@
+/openCVLibrary342/build
 *.iml
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+.idea/workspace.xml
+.idea/libraries
 .DS_Store
 /build
 /captures
 .externalNativeBuild
+.idea
+
+app/src/main/assets/retrained_graph.pb
